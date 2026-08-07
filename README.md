@@ -1,104 +1,64 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,50:2980B9,100:A1FFCE&height=220&section=header&text=Karol%20Zambrano&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%E2%9C%A6%20Application%20Support&descAlignY=58&descSize=18&descColor=F0FFFF&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=900&color=2980B9&center=true&vCenter=true&width=600&height=40&lines=%E2%9C%A6+Java+%2B+Spring+Boot+Developer;%E2%9C%A6+Service+Desk+L1.5+%40+Indra;%E2%9C%A6+Siempre+aprendiendo+algo+nuevo+%F0%9F%8C%A4" />
-
-<br/><br/>
-
-<img src="https://img.icons8.com/fluency/48/water.png" width="35"/>
-<img src="https://img.icons8.com/fluency/48/spring-logo.png" width="35"/>
-<img src="https://img.icons8.com/fluency/48/leaf.png" width="35"/>
-<img src="https://img.icons8.com/fluency/48/sun.png" width="35"/>
-<img src="https://img.icons8.com/fluency/48/cloud.png" width="35"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
-
-<table width="100%" border="0">
-<tr>
-<td width="100%" align="center" style="background: linear-gradient(135deg,#E0F7FA,#B2EBF2); border-radius:20px; padding:20px;">
-
-## 🌤️ sobre mí
-
-*Tecnóloga en Análisis y Desarrollo de Software (SENA) construyendo su camino en desarrollo backend y soporte técnico.*
-
-`San Gil, Colombia` · `Service Desk Analyst L1.5 @ Indra` · `Buscando rol Backend Jr / App Support`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 💧 stack tecnológico
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-2980B9?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=6DD5FA" />
-<img src="https://img.shields.io/badge/Spring_Boot-2980B9?style=for-the-badge&logo=springboot&logoColor=white&labelColor=6DD5FA" />
-<img src="https://img.shields.io/badge/SQL-2980B9?style=for-the-badge&logo=mysql&logoColor=white&labelColor=6DD5FA" />
-<br/>
-<img src="https://img.shields.io/badge/Git-2980B9?style=for-the-badge&logo=git&logoColor=white&labelColor=A1FFCE" />
-<img src="https://img.shields.io/badge/Maven-2980B9?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=A1FFCE" />
-<img src="https://img.shields.io/badge/Postman-2980B9?style=for-the-badge&logo=postman&logoColor=white&labelColor=A1FFCE" />
-<img src="https://img.shields.io/badge/Appian-2980B9?style=for-the-badge&logo=appian&logoColor=white&labelColor=A1FFCE" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
-
-## ☁️ estadísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=graywhite&hide_border=true&bg_color=F0FAFF&title_color=2980B9&icon_color=6DD5FA&text_color=34495E&ring_color=A1FFCE" width="47%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=graywhite&hide_border=true&background=F0FAFF&stroke=6DD5FA&ring=2980B9&fire=6DD5FA&currStreakLabel=2980B9" width="47%" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
-
-## 🌊 proyecto destacado
-
-<div align="center">
-
-<a href="https://github.com/TU_USUARIO/nombre-repo-otp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=nombre-repo-otp&theme=graywhite&hide_border=true&bg_color=F0FAFF&title_color=2980B9&icon_color=6DD5FA&text_color=34495E" width="47%"/>
-</a>
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a1f2e&height=200&section=header&text=Welcome%20to%20Karol's%20GitHub&fontSize=32&fontColor=00D9FF&fontAlignY=45&desc=%3C%2F%3E&descAlignY=65&descSize=20&descColor=00D9FF" width="100%"/>
 </div>
 
 <div align="center">
 
-*🔐 Sistema de autenticación OTP con microservicios — Java · Spring Boot · Redis · React · API Gateway*
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/TU_USUARIO)
+[![Gmail](https://img.shields.io/badge/-Gmail-0d1117?style=flat-square&logo=gmail&logoColor=00D9FF)](mailto:tu_correo@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=flat-square&logo=instagram&logoColor=00D9FF)](https://instagram.com/TU_USUARIO)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+## 📌 About me
 
-## 🍃 conectemos
+<img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif">
+
+Hola! Soy **Karol Zambrano**, Tecnóloga en Análisis y Desarrollo de Software, apasionada por el backend y el soporte técnico. Me gusta resolver problemas, aprender tecnologías nuevas y construir cosas que funcionen bien.
+
+- 🎓 Tecnología en Análisis y Desarrollo de Software (SENA)
+- 🌱 Aprendiendo Spring Boot, APIs REST y Appian
+- 📍 Colombia
+- ✍️ Leo en mis tiempos libres
+
+<br clear="right"/>
+
+## 🛠️ Technologies
 
 <div align="center">
 
-<a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-6DD5FA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2980B9" /></a>
-<a href="mailto:tu_correo@gmail.com"><img src="https://img.shields.io/badge/Gmail-6DD5FA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2980B9" /></a>
+![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk&logoColor=00D9FF)
+![SpringBoot](https://img.shields.io/badge/-Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=00D9FF)
+![SQL](https://img.shields.io/badge/-SQL-0d1117?style=flat-square&logo=mysql&logoColor=00D9FF)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=00D9FF)
+![Maven](https://img.shields.io/badge/-Maven-0d1117?style=flat-square&logo=apachemaven&logoColor=00D9FF)
+![Postman](https://img.shields.io/badge/-Postman-0d1117?style=flat-square&logo=postman&logoColor=00D9FF)
+![Appian](https://img.shields.io/badge/-Appian-0d1117?style=flat-square&logo=appian&logoColor=00D9FF)
+![HTML](https://img.shields.io/badge/-HTML-0d1117?style=flat-square&logo=html5&logoColor=00D9FF)
+![CSS](https://img.shields.io/badge/-CSS-0d1117?style=flat-square&logo=css3&logoColor=00D9FF)
 
 </div>
 
-<br/>
+## 📊 Statistics
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A1FFCE,50:2980B9,100:6DD5FA&height=150&section=footer" width="100%"/>
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="48%"/>
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff" width="100%"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1f2e,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
