@@ -4,10 +4,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/TU_USUARIO)
-[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/KaritoZLeal2025)
+[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/KaritoZLeal2025)
 [![Gmail](https://img.shields.io/badge/-Gmail-0d1117?style=flat-square&logo=gmail&logoColor=00D9FF)](mailto:tu_correo@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=flat-square&logo=instagram&logoColor=00D9FF)](https://instagram.com/TU_USUARIO)
+[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=flat-square&logo=instagram&logoColor=00D9FF)](https://instagram.com/KaritoZLeal2025)
 
 </div>
 
@@ -46,8 +46,8 @@ Hola! Soy **Karol Zambrano**, Tecnóloga en Análisis y Desarrollo de Software, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KaritoZLeal2025&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaritoZLeal2025&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="48%"/>
 
 </div>
 
@@ -55,7 +55,7 @@ Hola! Soy **Karol Zambrano**, Tecnóloga en Análisis y Desarrollo de Software, 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaritoZLeal2025&theme=github-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff" width="100%"/>
 
 </div>
 
