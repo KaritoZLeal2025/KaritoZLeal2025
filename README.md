@@ -4,11 +4,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/KaritoZLeal2025)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/karol-andrea-zambrano-leal-a4a351417/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/KaritoZLeal2025)
-[![Gmail](https://img.shields.io/badge/-Gmail-0d1117?style=flat-square&logo=gmail&logoColor=00D9FF)](mailto:tu_correo@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=flat-square&logo=instagram&logoColor=00D9FF)](https://instagram.com/KaritoZLeal2025)
-
+[![Gmail](https://img.shields.io/badge/-Gmail-0d1117?style=flat-square&logo=gmail&logoColor=00D9FF)](mailto:kzambranoleal@gmail.com)
 </div>
 
 <br/>
